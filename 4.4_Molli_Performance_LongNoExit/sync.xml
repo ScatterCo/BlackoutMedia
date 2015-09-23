@@ -1,0 +1,17 @@
+<sync>
+    <local>
+        <angle>EAST</angle>
+        <depth>27638</depth>
+        <video>613</video>
+    </local>
+    <local>
+        <angle>NORTH</angle>
+        <depth>27588</depth>
+        <video>661</video>
+    </local>
+    <local>
+        <angle>SOUTH</angle>
+        <depth>27665</depth>
+        <video>654</video>
+    </local>
+</sync>

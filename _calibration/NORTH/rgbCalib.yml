@@ -1,0 +1,21 @@
+%YAML:1.0
+cameraMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1.3112320987097960e+003, 0., 9.6000954695809946e+002, 0.,
+       1.3067731545581337e+003, 5.4266431801153919e+002, 0., 0., 1. ]
+imageSize_width: 1920
+imageSize_height: 1080
+sensorSize_width: 0
+sensorSize_height: 0
+distCoeffs: !!opencv-matrix
+   rows: 5
+   cols: 1
+   dt: d
+   data: [ -1.3705351341613348e-001, 1.1282279177036171e-001,
+       2.3502362151538942e-003, -7.0324873401964505e-004,
+       -5.3702859193883283e-002 ]
+reprojectionError: 0.
+features:
+   []
